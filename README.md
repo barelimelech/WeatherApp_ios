@@ -26,7 +26,7 @@ WeatherApp is a simple and intuitive weather application that allows users to:
 
 ## 🛠️ Technologies Used
 
-- **Swift & SwiftUI** – For building the iOS application.
+- **Swift & Storyboard** – For building the iOS application.
 - **CoreLocation** – For fetching the user's location.
 - **Weather API** – To retrieve live weather data.
 
